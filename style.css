@@ -16,7 +16,7 @@ body {
   width: 100%;
 }
 
-.eisenhower-matrix .more-details {
+.eisenhower-matrix .eisenhower-matrix__link {
   font-family: fantasy, cursive;
 }
 
